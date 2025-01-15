@@ -1,0 +1,345 @@
+/* Nav styles */
+.nav{
+  display:flex ;
+  gap: 30px;
+  align-items:center ;
+  justify-content: space-between;
+  
+}
+.nav li {
+  list-style: none;
+}
+.nav li a {
+  text-decoration: none;
+}
+.Bangladesh2{
+  color:#0E0E0E;
+  font-size: 32px;
+  font-weight: bold;
+  
+}
+.bit{
+  font-size: 22px;
+  font-weight: 600;
+  padding:25px 35px ;
+  color: #006A50;
+  /* background-color: #F1F1F3; */
+  border: 1px solid #006A50;
+  border-radius: 4px;
+  border: none;
+
+}
+/* header styles */
+.header{
+ background-color: #C6E4D6;
+ background-position:400px ;
+ border-radius: 15px;
+ padding: 80px;
+}
+.nav{
+  display: flex;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+.img{
+  /* width: 474px; */
+  /* height: 400px; */
+  margin: 80px 100px 80px 64px;
+  
+}
+.body{
+  margin:100px ;
+  margin-top:5px;
+}
+.banner-des{
+font-size: 56px;
+font-weight: bold;
+color: #0E0E0E;
+align-items: center;
+}
+.title{
+  font-size: 24px;
+  font-weight: 400;
+}
+.skills-conteiner{
+  display: flex;
+  gap: 35px;
+  margin-top:30px ;
+  padding: 30px; 
+}
+.skill{
+  background-color: #eaedeb;
+  padding: 20px;
+  border-radius: 10px;
+}
+.section title{
+  /* font-size: 40px; */
+  /* font-weight: bold; */
+
+}
+.butto{
+  font-size: 18px;
+  /* align-items: normal; */
+  text-decoration: line-through;
+  padding: 17px 34px;
+  background-color: #006A50;
+  margin-right: 320px;
+  border-radius:10px ;
+  
+}
+.vision{
+  display: flex;
+  gap: 100px;
+ margin-left: 200px;
+ margin-top: 40px;
+}
+.icon-1{
+  background-color: #aac7ff;
+  padding: 27px;
+  border-radius:15px ;
+  box-shadow:5px 2px 0px 20px #aac7ff  ;
+}
+.icon-2{
+  background-color: #C6E4D6;
+  padding:30px ;
+  border-radius: 15px;
+  box-shadow:5px 2px 0px 20px #C6E4D6;
+}
+.icon-3{
+  background-color: #F7EBCF; 
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow:5px 2px 0px 20px #F7EBCF ;
+}
+ .vision-title-1{
+  font-size: 20px;
+  font-weight: bold;
+ }
+ .vision-title-2{
+  font-size: 20px;
+  font-weight: bold;
+ }
+ .vision-title-3{
+  font-size: 20px;
+  font-weight: bold;
+ } 
+ .The-Vision{
+  font-size: 40px;
+  font-weight: bold;
+ }
+ .regular{
+  font-size: 16px;
+  
+ }
+ .vision-pg-1{
+  
+  font-size: 16px;
+  color: #0E0E0E;
+  text-align: left;
+ }
+ .vision-pg-2{
+  font-size: 16px;
+  color: #0E0E0E;
+ } 
+ .vision-pg-3{
+  font-size: 16px;
+  color: #0E0E0E;
+ }
+ .more-btn-1{
+  font-size: 18px;
+  border-radius: 10px;
+  background-color: #385fa3;
+  color: #FFFFFF;
+  text-align: center; 
+  padding: 10px 20px;
+  margin-top: 10px;
+ }
+ .more-btn-2{
+  font-size: 18px;
+  border-radius: 10px;
+  background-color:#09A15C ;
+  color: #FFFFFF;
+  text-align: center; 
+  padding: 10px 20px;
+  margin-top: 25px;
+ }
+ .more-btn-3{
+  font-size: 18px;
+  border-radius: 10px;
+  background-color: #FFC239;
+  color: #FFFFFF;
+  text-align: center; 
+  padding: 10px 20px;
+  margin-top: 25px;
+ }
+ .dolor{
+  background-color:#a1c3ff;
+  margin-top: 100px;
+  margin-left: 170px;
+  margin-right: 160px;
+  margin-bottom: 30px;
+  border-radius: 15px;
+  background-image:  url("../B11A1--assignment-1/assets/quote-bg.png") ;
+  background-repeat: no-repeat;
+  padding: 30px;
+  margin: ;
+ }
+ .amet{
+  
+ }
+ .body{
+  background-color: #F1F1F3;
+  
+ }
+.News{
+  align-items: center;
+  margin-left:170px ;
+  font-size: 40px;
+  font-weight: bold;
+  color: #0E0E0E;
+
+}
+.aims {
+  margin-left: 170px;
+  margin-right: 160px;
+  font-size: 16px;
+  color: #0E0E0E;
+} 
+.butt{
+ text-align: center;
+}
+.Taka100{
+  font-size: 40px;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  color:#0E0E0E;
+  text-align: center; 
+  padding: 30px;
+  margin-top: 10px;
+  border: none;
+  margin-left: 20px;
+}
+.Tk200{
+  font-size: 40px;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: #C6E4D6;
+  color:#0E0E0E;
+  text-align: center; 
+  padding: 30px;
+  margin-top: 10px;
+  border: none;
+  margin-left: 20px;
+}
+.tk300{
+  font-size: 40px;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  color:#0E0E0E;
+  text-align: center; 
+  padding: 30px;
+  margin-top: 10px;
+  border: none;
+  margin-left: 20px;
+}
+.tk400{
+  font-size: 40px;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  color:#0E0E0E;
+  text-align: center; 
+  padding: 30px;
+  margin-top: 10px;
+  border: none;
+  margin-left: 20px;
+}
+.Today{
+  text-align: center;
+}
+.growth{
+  margin-left: 170px;
+  margin-right: 160px;
+  font-size: 16px;
+  margin-bottom: 30px;
+  color: #0E0E0E;
+}
+.Donate{
+  font-size: 40px;
+  font-weight: bold;
+  color: #0E0E0E;
+}
+.Amount{
+  background-color:#FFFFFF ;
+  padding: 15px;
+  margin-left: 400px;
+  margin-right: 400px;
+ color: #0E0E0E;
+ margin-top: 30px;
+}
+.Done{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: 500;
+  border: none;
+  padding: 15px 25px;
+  background-color: #006A50;
+  border-radius: 10px;
+  color: #FFFFFF;
+}
+.Satellite{
+  background-color:#FFFFFF ;
+  border-radius: 20px;
+  background-image:url("../B11A1--assignment-1/assets/satelite.png") ;
+  background-repeat: no-repeat;
+  margin-left:170px ;
+  margin-right:160px;
+
+ 
+}
+.life{
+  margin-left: 450px;
+  padding:1px;
+ 
+}
+.Launches{
+  font-size: 32px;
+  font-weight: bold;
+  color: #0E0E0E;
+}
+.Time{
+  display: flex;
+  gap: 20px;
+  font-size: 18px;
+  color: #0E0E0E;
+}
+.Read{
+  font-size: 18px;
+  font-weight: 400;
+  color: #FFFFFF;
+  padding: 13px 26px;
+  background-color: #006A50;
+  border-radius: 10px;
+  border: none;
+}
+.Satellit{
+  margin-right:160px;
+  margin-left: 170px;
+  margin-top: 40px;
+  border-radius: 20px;
+  background-image: url("../B11A1--assignment-1/assets/satelite.png");
+  background-position: right top;
+  background-repeat: no-repeat;
+  background-color:#FFFFFF ; 
+  padding: 20px 100px 20px 20px ;
+}
+.until{
+  font-size: 16px;
+  margin-right:250px ;
+
+}
